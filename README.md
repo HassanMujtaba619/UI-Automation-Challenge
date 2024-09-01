@@ -24,3 +24,18 @@ Before running the tests, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/HassanMujtaba619/UI-Automation-Challenge.git
+
+   # UI Automation Challenge
+
+## Running Tests
+
+To run the tests, use the following command:
+
+```bash
+npx cypress open
+
+Alternatively, to run the tests in headless mode, use:
+npx cypress run
+
+
+
